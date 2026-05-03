@@ -31,6 +31,13 @@ Fork it. Improve it. Make it yours. And if you want to hate on free open source 
 - **First-time Claude Code users** — structured roles instead of a blank prompt
 - **Tech leads and staff engineers** — rigorous review, QA, and release automation on every PR
 
+## 🌐 Translations
+
+[简体中文](./translations/zh-CN/README.md)
+
+---
+
+
 ## Quick start
 
 1. Install gstack (30 seconds — see below)
